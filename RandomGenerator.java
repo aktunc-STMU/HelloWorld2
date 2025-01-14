@@ -2,7 +2,7 @@ import java.util.Random;
 
 public class RandomGenerator{
 	
-	public RandomGenerator() 
+	public RandomGenerator() //add comments
 
 	//public static void main(String args[])
 	{
